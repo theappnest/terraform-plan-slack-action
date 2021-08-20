@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@actions/artifact": "^0.5.2",
-    "@actions/core": "^1.4.0",
+    "@actions/core": "^1.5.0",
     "@actions/github": "^5.0.0",
     "@slack/types": "^2.2.0",
     "@slack/webhook": "^6.0.0",
