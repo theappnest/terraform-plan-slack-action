@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/glob": "^7.1.4",
     "@types/node": "^16.6.1",
-    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
     "@typescript-eslint/parser": "^4.29.3",
     "@vercel/ncc": "^0.29.2",
     "eslint": "^7.32.0",
