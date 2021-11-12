@@ -642,10 +642,12 @@ eslint-config-airbnb-base@^14.2.1:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
-eslint-config-airbnb-typescript@^13.0.0:
-  version "13.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-airbnb-typescript/-/eslint-config-airbnb-typescript-13.0.0.tgz#161507d1be79aea5ffe7ee2b0d14ad8222fe4109"
-  integrity sha512-ILlBPRdEeNavuZl6Wcjsese/vxMI4E8WM4xqCXLFyOHA1HFicpuTys9ikCk872vFK009WvhtT+rCl0R1Uadqcw==
+eslint-config-airbnb-typescript@^14.0.2:
+  version "14.0.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-airbnb-typescript/-/eslint-config-airbnb-typescript-14.0.2.tgz#4dc1583b9eab671bb011dea7d4ff1fc0d88e6e09"
+  integrity sha512-oaVR63DqpRUiOOeSVxIzhD3FXbqJRH+7Lt9GCMsS9SKgrRW3XpZINN2FO4JEsnaHEGkktumd0AHE9K7KQNuXSQ==
+  dependencies:
+    eslint-config-airbnb-base "^14.2.1"
 
 eslint-config-prettier@^8.3.0:
   version "8.3.0"
